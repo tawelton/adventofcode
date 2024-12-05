@@ -1,4 +1,4 @@
-const getInput = require("../fileReader");
+const getInput = require("../../fileReader");
 
 (async () => {
   const input = await getInput(__dirname);

@@ -1,4 +1,4 @@
-const getInput = require("../fileReader");
+const getInput = require("../../fileReader");
 
 const CHECK_WORD = "XMAS".split("");
 let grid;

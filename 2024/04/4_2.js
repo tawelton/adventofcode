@@ -1,4 +1,4 @@
-const getInput = require("../fileReader");
+const getInput = require("../../fileReader");
 
 const CHECK_CHAR = "A";
 const VALID_DIAGONALS = ["M", "S"];
